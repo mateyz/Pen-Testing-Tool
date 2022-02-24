@@ -28,4 +28,4 @@
 
 ##### Disclaimer
  **This tool is released for educational purposes- any malicious activity is not permitted nor encouraged.**
- 
+ **The vulnerability database was localized during the Viva for the project, meaning this won't work unless you import and update a live vulnerability database.**
